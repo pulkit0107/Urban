@@ -1,0 +1,6 @@
+.header{
+    height: 900px;
+    background-image: url("../img/banner.png");
+    background-size: cover;
+    background-position: center top;
+}
